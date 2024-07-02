@@ -42,8 +42,7 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left">How to reach me : ![email](https://github.com/BharathiThukkaivel/BharathiThukkaivel/assets/115387245/9454251e-d9bd-46e9-ae7e-6755b232a8e2)
- bharathit.cse@gmail.com </p>
+<p align="left">How to reach me :e-mail: bharathit.cse@gmail.com </p>
 
 ###
 
