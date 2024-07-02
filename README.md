@@ -51,7 +51,8 @@ Here are some ideas to get you started:
 ###
 
 <div align="left">
-  <img src="https://www.flaticon.com/free-icon/html-5_5968267?term=html&page=1&position=3&origin=search&related_id=5968267#" height="40" alt="html logo"  />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"  alt ="html logo"/>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" height="40" alt="css logo"  />
   <img width="12" />
