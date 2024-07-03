@@ -21,30 +21,29 @@ Here are some ideas to get you started:
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  <a href = "https://www.linkedin.com/in/bharathithukkaivel/" target = "blank">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"/>
+  </a>
+ <!-- <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />-->
 </div>
 
-###
+
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
 </div>
 
-###
 
 <h1 align="center">Hey there 👋</h1>
 
-###
+
 
 <h3 align="left">👩‍💻  About Me</h3>
-<p>I am a passionate and committed developer with a knowledge in front-end  programming languages. My expertise in HTML, CSS, and JavaScript allows me to create dynamic and flexible websites with ease. I am always eager to learn and stay updated with the latest industry trends and technologies. My goal is to leverage my diverse skill set to contribute to innovative projects and continue growing as a developer. </p>
-###
+<p>I am a passionate and committed developer with a knowledge in front-end  programming languages. My expertise in HTML, CSS, and JavaScript allows me to create dynamic and flexible websites with ease. I am always eager to learn and stay updated with the latest industry trends and technologies. My goal is to leverage my diverse skill set to contribute to innovative projects and continue growing as a developer.</p>
 
 <p align="left">How to reach me :e-mail: bharathit.cse@gmail.com </p>
 
-###
 
 <h3 align="left">🛠 Language and tools</h3>
 
