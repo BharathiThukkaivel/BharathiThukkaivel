@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 ###
 
 <h3 align="left">👩‍💻  About Me</h3>
-
+<p>I am a passionate and committed developer with a knowledge in front-end  programming languages. My expertise in HTML, CSS, and JavaScript allows me to create dynamic and flexible websites with ease. I am always eager to learn and stay updated with the latest industry trends and technologies. My goal is to leverage my diverse skill set to contribute to innovative projects and continue growing as a developer. </p>
 ###
 
 <p align="left">How to reach me :e-mail: bharathit.cse@gmail.com </p>
